@@ -1,6 +1,6 @@
 # PCA Model Comparison
 
-This repository compares the performance of Random Forest Classifier and SGD Classifier before and after applying PCA on the MNIST dataset.
+Comparing the performance of Random Forest Classifier and SGD Classifier before and after applying dimensionality reduction algorithm (PCA) on the MNIST dataset.
 
 ## Notebook
 
