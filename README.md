@@ -4,8 +4,6 @@ This repository compares the performance of Random Forest Classifier and SGD Cla
 
 ## Notebook
 
-Access the notebook in Google Colab: [Open in Colab](https://colab.research.google.com/drive/1_OpNaAv29ZvdtuOtkcbX5Ep0gpmMLbaC#scrollTo=QBo_pAXvjJEH)
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_OpNaAv29ZvdtuOtkcbX5Ep0gpmMLbaC#scrollTo=QBo_pAXvjJEH)
 
 
